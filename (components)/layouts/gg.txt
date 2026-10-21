@@ -1,0 +1,36 @@
+<footer class="website-footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-company">
+                    <a class="footer-brand" href="https://www.balupathor.com" aria-label="Balupathor">
+                                                    <img src="/storage/settings/ea73b09f-828a-4f62-a9b5-d1aaf36e58f5.webp" alt="Balupathor" width="210" height="68">
+                                            </a>
+                                            <p>BaluPathor supplies quality sand, stone chips, boulder and aggregate with reliable delivery for house, road, commercial and infrastructure projects.</p>
+                                    </div>
+                                    <nav aria-label="Footer navigation">
+                        <ul>
+                                                                                            <li><a href="https://www.balupathor.com/about" target="_self">BaluPathor সম্পর্কে</a></li>
+                                                                                            <li><a href="https://www.balupathor.com/products" target="_self">পাথর পণ্য</a></li>
+                                                                                            <li><a href="https://www.balupathor.com/services" target="_self">সরবরাহ সেবা</a></li>
+                                                                                            <li><a href="https://www.balupathor.com/gallery" target="_self">প্রজেক্ট গ্যালারি</a></li>
+                                                                                            <li><a href="https://www.balupathor.com/contact" target="_self">যোগাযোগ</a></li>
+                                                    </ul>
+                    </nav>
+                                <div class="footer-contact">
+                                            <a class="footer-contact-link" href="mailto:info@balupathor.com"><i class="bi bi-envelope"></i><span>info@balupathor.com</span></a>
+                                                                <a class="footer-contact-link" href="tel:01712301424"><i class="bi bi-telephone"></i><span>01712301424</span></a>
+                                                                <span class="footer-contact-link"><i class="bi bi-geo-alt"></i><span>House No 53, Molla Bari (Lift 4), Kawlar Bazar, Airport, Dhaka- 1230</span></span>
+                                        <div class="social-links footer-social-links">
+                                                                                                                                                                                                                                                                                                                                                <a href="https://wa.me/01712301424" target="_blank" rel="noopener" aria-label="WhatsApp"><i class="bi bi-whatsapp"></i></a>
+                                                                            <a href="tel:01712301424" aria-label="Call"><i class="bi bi-telephone-fill"></i></a>
+                                            </div>
+                </div>
+            </div>
+            <div class="footer-bottom"><span>Developed by <a href="https://devniox.com" target="_blank" rel="noopener">DevNiox</a></span>
+                <div>
+                                            <a href="https://www.balupathor.com/privacy-policy">প্রাইভেসি পলিসি</a>
+                                                     <a href="https://www.balupathor.com/terms">শর্তাবলি</a>
+                                        </div>
+            </div>
+        </div>
+    </footer>
