@@ -14,7 +14,7 @@ import Container from "@/(components)/common/Container";
 
 const team = [
   {
-    name: "রাশেদ ইসলাম লাবন",
+    name: "রাশেদুল লাবন ",
     role: "প্রতিষ্ঠাতা ও ব্যবস্থাপনা পরিচালক",
     image: "/labon.jpg",
     description:
@@ -99,7 +99,7 @@ export default function page() {
               />
               <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/90 to-transparent p-6 pt-16 sm:p-8 sm:pt-20">
                 <p className="text-xl font-extrabold sm:text-2xl">
-                  রাশেদ ইসলাম লাবন
+                  রাশেদুল লাবন 
                 </p>
                 <p className="mt-2 text-sm text-blue-300 sm:text-base">
                   প্রতিষ্ঠাতা ও ব্যবস্থাপনা পরিচালক

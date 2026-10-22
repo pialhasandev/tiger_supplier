@@ -17,7 +17,7 @@ export default function LeadershipSection() {
           </h2>
 
           <h3 className="mt-6 text-2xl font-semibold text-blue-300 sm:text-3xl">
-            রাশেদ ইসলাম লাবন 
+            রাশেদুল লাবন 
           </h3>
 
           <p className="mt-6 text-xl font-bold text-white">
