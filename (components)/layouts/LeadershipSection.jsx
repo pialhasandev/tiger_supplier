@@ -13,11 +13,11 @@ export default function LeadershipSection() {
           </p>
 
           <h2 className="mt-3 text-3xl font-extrabold sm:text-4xl">
-            নেতৃত্বে
+            পরিচালনায়
           </h2>
 
           <h3 className="mt-6 text-2xl font-semibold text-blue-300 sm:text-3xl">
-            রাশেদুল ইসলাম লাবন 
+            রাশেদ ইসলাম লাবন 
           </h3>
 
           <p className="mt-6 text-xl font-bold text-white">

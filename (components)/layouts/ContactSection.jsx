@@ -84,7 +84,7 @@ export default function ContactSection() {
                   Our Address
                 </span>
                 <span className="mt-1 block text-sm leading-6 font-medium">
-                  Rahima plaza(2nd floor),tomaltola,jamalpur sadar,Jamalpur.
+                  Rahima Plaza(2nd Floor),Tomaltola,Jamalpur Sadar,Jamalpur
                 </span>
               </span>
             </div>

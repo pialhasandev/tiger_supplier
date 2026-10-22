@@ -132,7 +132,7 @@ export default function Footer() {
                 <div className="min-w-0 pt-1">
                   <p className="mb-1 text-xs text-slate-400">আমাদের ঠিকানা</p>
                   <p className="text-sm leading-6 text-slate-200">
-                    Rahima plaza(2nd floor),tomaltola,jamalpur sadar,Jamalpur.
+                    Rahima Plaza(2nd Floor),Tomaltola,Jamalpur Sadar,Jamalpur.
                   </p>
                 </div>
               </li>
@@ -169,7 +169,15 @@ export default function Footer() {
 
           <p>
             Develop By{" "}
-            <span className="font-semibold text-blue-400">pialhasandev</span>।
+            <Link
+              href="https://my-portfolio-ten-livid-88.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-semibold text-blue-400 transition hover:text-blue-300"
+            >
+              pialhasandev
+            </Link>
+            ।
           </p>
         </div>
       </div>

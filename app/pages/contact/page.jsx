@@ -27,7 +27,7 @@ export default function ContactSection() {
   const whatsappNumber = "8801723290809";
 
   const address =
-    "Rahima plaza(2nd floor),tomaltola,jamalpur sadar,Jamalpur.";
+    "Rahima Plaza(2nd Floor),Tomaltola,Jamalpur Sadar,Jamalpur.";
 
   const mapUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
     address

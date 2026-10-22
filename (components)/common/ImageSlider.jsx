@@ -194,7 +194,7 @@ export default function ImageSlider() {
 
                     <div className="mt-auto flex items-center justify-between pt-2">
                       <a
-                        href={`https://wa.me/8801712301424?text=${encodeURIComponent(
+                        href={`https://wa.me/01723290809?text=${encodeURIComponent(
                           `আসসালামু আলাইকুম, আমি "${product.title}" সম্পর্কে জানতে চাই।`
                         )}`}
                         target="_blank"
@@ -208,7 +208,7 @@ export default function ImageSlider() {
                         type="button"
                         onClick={() =>
                           window.open(
-                            `https://wa.me/8801712301424?text=${encodeURIComponent(
+                            `https://wa.me/01723290809?text=${encodeURIComponent(
                               `আসসালামু আলাইকুম, আমি "${product.title}" সম্পর্কে বিস্তারিত জানতে চাই।`
                             )}`,
                             "_blank",
