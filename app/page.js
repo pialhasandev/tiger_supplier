@@ -13,8 +13,9 @@ export default function Home() {
       <LeadershipSection />
       <AboutSection />
       <ImageSlider />
-      <ContactSection />
       <QuickOrder />
+      <ContactSection />
+      
     </>
   );
 }
